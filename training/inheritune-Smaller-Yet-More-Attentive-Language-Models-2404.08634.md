@@ -1,7 +1,7 @@
 # Inheritune: Training Smaller Yet More Attentive Language Models
 
 by Sunny Sanyal 
-https://arxiv.org/abs/2404.08634v2
+**Source**: [arXiv:2404.08634v2](https://arxiv.org/html/2404.08634v2)
 
 ## Contents
 - [Abstract](#abstract)

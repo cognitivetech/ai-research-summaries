@@ -1,7 +1,7 @@
 # Surveying the MLLM Landscape: A Meta-Review of Current Surveys
 
 by Ming Li, Keyu Chen, Ziqian Bi
-https://arxiv.org/abs/2409.18991
+**Source**: [arXiv:2409.18991](https://arxiv.org/html/2409.18991)
 
 ## Contents
 - [Abstract](#abstract)

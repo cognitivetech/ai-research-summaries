@@ -1,6 +1,6 @@
 # InfiniPot: Efficiently Handling Long Input Contexts in Large Language Models (LLMs) on Memory-Constrained Devices
 
-https://arxiv.org/abs/2410.01518
+**Source**: [arXiv:2410.01518](https://arxiv.org/html/2410.01518)
 Minsoo Kim1, Kyuhong Shim, Jungwook Choi, Simyung Chang
 
 ## Contents
